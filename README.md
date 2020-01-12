@@ -1,5 +1,5 @@
-# dlnd_project1
-A Deep Learning algorithm written in pure Python for the first project of the the Udacity Deep Learning Nanodegree.
+# dlnd-numpy-neural-network
+A Deep Learning algorithm written in pure Python to better understand the fundementals of Deep Learning and Neural Networks.
 
 ## How to run
 Running the project only required executing the following command assuming Anaconda 3 is installed.
